@@ -7,7 +7,6 @@
 ---
 
 台灣大學 電機資訊學院 資訊網路與多媒體研究所
-
 Graduate Institute of Networking and Multimedia
 
 106台北市羅斯福路四段一號  台灣大學 資訊工程德田館218室

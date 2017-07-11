@@ -1,4 +1,4 @@
-[首頁](https://www.csie.ntu.edu.tw/)
+[首頁](http://www.inm.ntu.edu.tw/main.php)
 
 ---
 

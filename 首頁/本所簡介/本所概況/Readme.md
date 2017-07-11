@@ -1,4 +1,4 @@
-[本所概況](http://www.inm.ntu.edu.tw/intro/super_pages2.php?ID=intro1&Sn=1)
+[GINM/首頁/本所簡介/本所概況](http://www.inm.ntu.edu.tw/intro/super_pages2.php?ID=intro1&Sn=1)
 
 ---
 

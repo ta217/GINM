@@ -2,7 +2,7 @@
 
 ---
 
-[Imgur](http://i.imgur.com/nMhKuxr.png)
+![](http://i.imgur.com/nMhKuxr.png)
 
 ---
 

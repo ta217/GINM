@@ -1,4 +1,4 @@
-[GINM/首頁](http://www.inm.ntu.edu.tw/main.php)
+[首頁](http://www.inm.ntu.edu.tw/main.php)
 
 ---
 

@@ -1,4 +1,4 @@
-[GINM/首頁/本所簡介/大事紀](http://www.inm.ntu.edu.tw/intro/super_pages2.php?ID=intro1&Sn=3)
+[首頁/本所簡介/大事紀](http://www.inm.ntu.edu.tw/intro/super_pages2.php?ID=intro1&Sn=3)
 
 ---
 

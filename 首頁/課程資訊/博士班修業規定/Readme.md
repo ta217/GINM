@@ -1,3 +1,11 @@
+[首頁/課程資訊/博士班修業規定](http://www.inm.ntu.edu.tw/course/super_pages2.php?ID=course1&Sn=5)
+
+---
+
+![](http://i.imgur.com/uTXqdKv.png)
+
+---
+
 ## 博士班
 - 授予學位名稱
 - 中文：資訊工程學博士

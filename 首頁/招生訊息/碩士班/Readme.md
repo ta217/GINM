@@ -1,3 +1,11 @@
+[首頁/招生訊息/碩士班](http://www.inm.ntu.edu.tw/admiss/super_pages2.php?ID=recruit&Sn=8)
+
+---
+
+![](http://i.imgur.com/SW6tPFY.png)
+
+---
+
 招生訊息 / 碩士班
 
 碩士班甄試招生

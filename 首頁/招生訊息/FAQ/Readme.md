@@ -1,3 +1,11 @@
+[首頁/招生訊息/FAQ](http://www.inm.ntu.edu.tw/admiss/faq.php)
+
+---
+
+![](http://i.imgur.com/zY25DTs.png)
+
+---
+
 問答搜尋
 請輸入關鍵字：    
 問題	網媒所與資工所取得的學位名稱相同嗎？

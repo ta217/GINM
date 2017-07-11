@@ -1,3 +1,11 @@
+[首頁/招生訊息/大陸地區學生](http://www.inm.ntu.edu.tw/admiss/super_pages2.php?ID=recruit&Sn=11)
+
+---
+
+![](http://i.imgur.com/pKobkWl.png)
+
+---
+
 招生訊息 / 大陸地區學生
 
 

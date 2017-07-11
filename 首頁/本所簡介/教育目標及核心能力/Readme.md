@@ -1,3 +1,11 @@
+[教育目標及核心能力](http://www.inm.ntu.edu.tw/intro/super_pages2.php?ID=intro1&Sn=2)
+
+---
+
+![](http://i.imgur.com/mo8j4Ao.png)
+
+---
+
 ◎教育目標：
 1. 專業知識：使學生具備資訊網路與多媒體領域的專業知識。
 2. 創新領導：使學生能活用專業知識成為創新觀念的領導者。

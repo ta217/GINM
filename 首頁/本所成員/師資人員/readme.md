@@ -5,13 +5,11 @@
 - yangc@csie.ntu.edu.tw
 - 研究專長: 低功率嵌入式系統、高效能處理器架構、巨量資料儲存系統
 ##
-
 - 職稱: 教授
 - 姓名: 陳文進 (WC Chen)
 - wcchen@csie.ntu.edu.tw
 - 研究專長: 演算法、資料庫系統、多媒體系統
 ##
-　
 - 職稱: 教授
 - 姓名: 周承復 (CF Chou)
 - ccf@csie.ntu.edu.tw

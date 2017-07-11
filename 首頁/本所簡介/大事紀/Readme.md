@@ -1,3 +1,11 @@
+[大事記](http://www.inm.ntu.edu.tw/intro/super_pages2.php?ID=intro1&Sn=3)
+
+---
+
+![](http://i.imgur.com/ZFUJ64n.png)
+
+---
+
 2003年6月
 - 資訊工程學系系務會議通過，以內部組織調整方式成立「資訊網路與多媒體研究所」。
 - 「資訊網路與多媒體研究所博士班」，獲教育部核准設立。
